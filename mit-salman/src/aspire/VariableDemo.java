@@ -1,3 +1,4 @@
+
 package aspire;
 
 public class VariableDemo {
