@@ -8,9 +8,9 @@ public static void main(String[] args) {
 	int d;//d is a valid name
 	int size;//size is a valid naME
 	
-	int_size;//valid name-name can start with underscore
-	
-	int$size;//valid name-name can start with$
+	int _size;//valid name _ name can start with underscore
+	 
+	int $size;//valid name-name can start with$
 	
 	int si2ze;//valid name-name can have numbers in between
 	
@@ -23,5 +23,5 @@ public static void main(String[] args) {
 	//int si%ze;//Invalid-name cannot have any other special character in between other than_ad $
 	//int class;//Invalid-name cannot have keywords as identifier
 	//the same is applicable for all the datatypes
-}
+	}
 }
